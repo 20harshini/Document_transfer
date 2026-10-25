@@ -1,1 +1,2 @@
-"""Tests package for TrustVault backend"""
+"""TrustVault Backend Application Package"""
+__version__ = "0.1.0"
